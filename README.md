@@ -45,6 +45,11 @@ var collection = new Collection([1, 2, [4, 3, 2]]);
 collection.flatten().unique().sort().get(); // => [1, 2, 3, 4]
 ```
 
+## Test
+``` bash
+$ npm test
+```
+
 ## License
 MIT
 
