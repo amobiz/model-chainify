@@ -2,6 +2,10 @@
 
 Converts a bunch of functions into a method-chainable calss with a shared data model.
 
+[![MIT](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/amobiz/model-chainify/blob/master/LICENSE) [![npm version](https://badge.fury.io/js/model-chainify.svg)](http://badge.fury.io/js/model-chainify) [![David Dependency Badge](https://david-dm.org/amobiz/model-chainify.svg)](https://david-dm.org/amobiz/model-chainify)
+
+[![NPM](https://nodei.co/npm/model-chainify.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/model-chainify.png?downloads=true&downloadRank=true&stars=true) [![NPM](https://nodei.co/npm-dl/model-chainify.png?months=6&height=3)](https://nodei.co/npm/model-chainify/)
+
 ## Install
 ``` bash
 $ npm install model-chainify
