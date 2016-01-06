@@ -3,6 +3,10 @@
   "version": "0.1.1",
   "description": "Converts a bunch of functions into a method-chainable calss with a shared data model.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amobiz/model-chainify.git"
+  },
   "scripts": {
     "test": "mocha"
   },
